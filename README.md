@@ -2,4 +2,7 @@
 
 Mi primer sistema, todavia estaba estudiando cuando lo estaba desarrollando.
 
-Para una muebleria, que a la fecha les sigo dando soporte.
+A la fecha les sigo dando soporte.
+
+Sistema hecho a la medida, incluye : Clientes, Ventas, Compras, CxC, CxP, Inventarios, Reportes en Crystal Report.
+
