@@ -8,7 +8,9 @@ A la fecha les sigo dando soporte.
 
 Sistema hecho a la medida, incluye : Clientes, Ventas, Compras, CxC, CxP, Inventarios, Reportes en Crystal Report.
 
-A la fecha lo usamos en la empresa que trabajo, Se han realizado mejoras y adaptaciones a las necesidades actuales.
+Se agrego la facturación electronica y se esta modificando a la version 4.0 que entra en obligacion este año 2022.
 
-Se agrego la facturación electronica.
+Lo usamos en la empresa que trabajo, Se han realizado mejoras y adaptaciones a las necesidades actuales.
+
+
 
